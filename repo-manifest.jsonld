@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/astroquery/commit/efbcc3e940dcf182a4dc26266d5e0111b70947cc",
       "git:hexsha": "efbcc3e940dcf182a4dc26266d5e0111b70947cc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/astropy/astroquery/commit/736b3a59499879379733e022aa19a420cd68aa91",
